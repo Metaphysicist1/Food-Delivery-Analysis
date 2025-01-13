@@ -1,7 +1,19 @@
 # Food Delivery Analytics Power BI Report
 
+![1731955536987](https://github.com/user-attachments/assets/ad1380b3-6cc2-498d-980a-349254cb2ef5)
+
+
+
+
+
+
 ## Overview
 This repository contains a Power BI report that provides insights into food delivery trends, driver performance, and key metrics. The report is designed to help stakeholders understand daily trends, assess driver ratings, and visualize order timelines throughout the day.
+
+
+
+
+
 
 ## Features
 - **Daily Trends**: Analyze food delivery patterns and trends over time.
@@ -12,6 +24,9 @@ This repository contains a Power BI report that provides insights into food deli
 ## Technologies Used
 - **Power BI**: For data visualization and reporting.
 - **Data Sources**: [https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset]
+
+![1731955536868](https://github.com/user-attachments/assets/9513dd72-4dca-4173-a347-8e3b18a46c55)
+
 
 ## Getting Started
 To view the report, follow these steps:
@@ -31,6 +46,7 @@ To view the report, follow these steps:
 Contributions are welcome! If you have suggestions for improvements or additional features, please open an issue or submit a pull request.
 
 ## Acknowledgments
+
 - Thank you to all the contributors and data sources that made this project possible.
 
 ## Contact
